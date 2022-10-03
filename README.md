@@ -16,4 +16,4 @@ RMSE: Root Mean Square Error
 
 
 # Result
-Final RMSE = 
+Final RMSE = 41.895179235647184
