@@ -9,3 +9,11 @@ Original dataset contains 1009 rows and 15 columns.
  Second column denotes the year no. for which parameter values are recorded.
  
  Columns 3 to 15 represents values for parameters 1 to 13.
+ 
+# Metric Used
+RMSE: Root Mean Square Error
+
+
+
+# Result
+Final RMSE = 
